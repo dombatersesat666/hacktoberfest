@@ -1,3 +1,5 @@
 <div style="display:none">
 <a title="teknologi" href="https://teknonebula.info/" rel="dofollow">teknologi</a>
+<a title="https://teknonebula.info/" href="https://teknonebula.info/" rel="dofollow">https://teknonebula.info/</a>
+<a title="Tekno Nebula" href="https://teknonebula.info/" rel="dofollow">Tekno Nebula</a>
 </div>
