@@ -148,7 +148,7 @@ var drvee = (function() {
         var target_y = stage.ctx.canvas.height - init_y;
         var target_x = stage.ctx.canvas.width - init_x;
 
-        formation.travelTo(target_x, target_y, 3 + 3 * Math.random());
+        formation.travelTo(target_x, target_y, 10 + 10 * Math.random());
         return formation;
     };
 
